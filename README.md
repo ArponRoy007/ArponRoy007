@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack MERN projects like BlooderBro and 🔭 I’m currently working on full-stack MERN projects like BlooderBro and HeadlineHub.<br>👯 I’m looking to collaborate on Scalable, production-grade web applications utilizing the MERN stack.<br>🤝 I’m looking for help with Securing a Software Engineering Internship.<br>🌱 I’m currently learning DevOps methodologies and tools, including Docker, AWS, and Jenkins.<br>💬 Ask me about Designing secure REST APIs and implementing MVC architecture.<br>⚡ Fun fact I can spend hours debugging only to realize I was missing a single semicolon!
+🔭 I’m currently working on full-stack MERN projects like BlooderBro and HeadlineHub.<br>👯 I’m looking to collaborate on Scalable, production-grade web applications utilizing the MERN stack.<br>🤝 I’m looking for help with Securing a Software Engineering Internship.<br>🌱 I’m currently learning DevOps methodologies and tools, including Docker, AWS, and Jenkins.<br>💬 Ask me about Designing secure REST APIs and implementing MVC architecture.<br>⚡ Fun fact I can spend hours debugging only to realize I was missing a single semicolon!
 
 
 ## 🌐 Socials:
